@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-projects/static/css/main.8a9ccc80.css",
-    "main.js": "/react-projects/static/js/main.8841509f.js",
-    "static/media/3dPortfolio_img.png": "/react-projects/static/media/3dPortfolio_img.212ae1d8ec8eeff25347.png",
-    "static/media/roomHomepage_img.png": "/react-projects/static/media/roomHomepage_img.269216a3fa4718f84be3.png",
-    "static/media/menu_img.png": "/react-projects/static/media/menu_img.9965328c5b0bf3ddcb5b.png",
-    "static/media/fixedBackground_img.png": "/react-projects/static/media/fixedBackground_img.aaf97ed39c36998d3ad3.png",
-    "static/media/eCommerce_img.png": "/react-projects/static/media/eCommerce_img.b71be5904145645d0c5f.png",
-    "static/media/rockpaper_img.png": "/react-projects/static/media/rockpaper_img.aa3df9eb754a17037c75.png",
-    "static/media/todo_img.png": "/react-projects/static/media/todo_img.56288c3cc28b84d67d5f.png",
-    "static/media/countries_img.png": "/react-projects/static/media/countries_img.48d564486001dd59156a.png",
-    "static/media/shorter_img.png": "/react-projects/static/media/shorter_img.8e68288f0b83a0e6f12a.png",
-    "static/media/bookmark_img.png": "/react-projects/static/media/bookmark_img.0ea288120791a45150a3.png",
-    "static/media/pricingTables_img.png": "/react-projects/static/media/pricingTables_img.075a7df7c82284cbd1f9.png",
-    "static/media/countDown_img.png": "/react-projects/static/media/countDown_img.e35610fd4327ed4c294a.png",
-    "static/media/tictactoe_img.png": "/react-projects/static/media/tictactoe_img.5146d8077247dd1c4650.png",
-    "index.html": "/react-projects/index.html",
-    "main.8a9ccc80.css.map": "/react-projects/static/css/main.8a9ccc80.css.map",
-    "main.8841509f.js.map": "/react-projects/static/js/main.8841509f.js.map"
+    "main.css": "/portfolio2023/static/css/main.8a9ccc80.css",
+    "main.js": "/portfolio2023/static/js/main.01d38fee.js",
+    "static/media/3dPortfolio_img.png": "/portfolio2023/static/media/3dPortfolio_img.212ae1d8ec8eeff25347.png",
+    "static/media/roomHomepage_img.png": "/portfolio2023/static/media/roomHomepage_img.269216a3fa4718f84be3.png",
+    "static/media/menu_img.png": "/portfolio2023/static/media/menu_img.9965328c5b0bf3ddcb5b.png",
+    "static/media/fixedBackground_img.png": "/portfolio2023/static/media/fixedBackground_img.aaf97ed39c36998d3ad3.png",
+    "static/media/eCommerce_img.png": "/portfolio2023/static/media/eCommerce_img.b71be5904145645d0c5f.png",
+    "static/media/rockpaper_img.png": "/portfolio2023/static/media/rockpaper_img.aa3df9eb754a17037c75.png",
+    "static/media/todo_img.png": "/portfolio2023/static/media/todo_img.56288c3cc28b84d67d5f.png",
+    "static/media/countries_img.png": "/portfolio2023/static/media/countries_img.48d564486001dd59156a.png",
+    "static/media/shorter_img.png": "/portfolio2023/static/media/shorter_img.8e68288f0b83a0e6f12a.png",
+    "static/media/bookmark_img.png": "/portfolio2023/static/media/bookmark_img.0ea288120791a45150a3.png",
+    "static/media/pricingTables_img.png": "/portfolio2023/static/media/pricingTables_img.075a7df7c82284cbd1f9.png",
+    "static/media/countDown_img.png": "/portfolio2023/static/media/countDown_img.e35610fd4327ed4c294a.png",
+    "static/media/tictactoe_img.png": "/portfolio2023/static/media/tictactoe_img.5146d8077247dd1c4650.png",
+    "index.html": "/portfolio2023/index.html",
+    "main.8a9ccc80.css.map": "/portfolio2023/static/css/main.8a9ccc80.css.map",
+    "main.01d38fee.js.map": "/portfolio2023/static/js/main.01d38fee.js.map"
   },
   "entrypoints": [
     "static/css/main.8a9ccc80.css",
-    "static/js/main.8841509f.js"
+    "static/js/main.01d38fee.js"
   ]
 }
